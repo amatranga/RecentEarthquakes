@@ -1,3 +1,3 @@
 /node_modules
 /public/dist
-/src/config/config.jsx
+/client/src/config/config.jsx
