@@ -1,6 +1,5 @@
 import React from 'react';
 import Map from './Map';
-// import Earthquakes from './Earthquakes';
 
 class RecentEarthQuake extends React.Component {
   constructor(props) {
